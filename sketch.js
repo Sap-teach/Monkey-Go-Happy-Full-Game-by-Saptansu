@@ -96,7 +96,7 @@ background(255);
     
     
    //for making monkey jump
-    if(keyDown("space")&& monkey.y>=318){
+    if(keyDown("space")&& monkey.y>=300){
       monkey.velocityY=-21;
     }
     //add gravity
