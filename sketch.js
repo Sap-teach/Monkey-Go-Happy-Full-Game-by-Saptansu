@@ -104,7 +104,7 @@ background(255);
     
     //for spawning
     spawnBanana();
-    //spawnObstacles();
+    spawnObstacles();
     spawnApple();
     spawnOrange();
     
